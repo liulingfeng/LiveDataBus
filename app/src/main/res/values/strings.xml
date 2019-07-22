@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveDataBus</string>
+    <string name="count">消息数量</string>
+</resources>
